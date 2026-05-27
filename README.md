@@ -177,6 +177,6 @@ docker exec devops_postgres pg_dump -U appuser appdb > backup.sql
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Sourabh Narvariya
 **Assignment**: Webvory DevOps Engineer Technical Task  
 **Date**: May 2026
